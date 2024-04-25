@@ -3,5 +3,5 @@
     { "product": "Test 1", "interest_rate": "1.20" },
     { "product": "Test 2", "interest_rate": "2.20" },
     { "product": "Test 3", "interest_rate": "3.20" }
-  ],
+  ]
 }
